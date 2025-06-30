@@ -1,1 +1,1 @@
-# AINewsPlatform2
+News_Projects
